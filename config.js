@@ -12,7 +12,7 @@ gmodLS.steamWebApiKey = '7860F9308A4F4DEA3D01ECE3243A2A14';
  * Will be centered and streched if needed to the users resolution
  * @type {String}
  */
-gmodLS.backgroundImg  = 'http://123.214.103.182:12355/gmod-loadingscreen-2.0.0-alpha/loadbackground.png';
+gmodLS.backgroundImg  = 'loadbackground.png';
 
 /**
  * If you want music played in background add your music files here.
